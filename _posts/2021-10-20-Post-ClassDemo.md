@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Test Post NO.2
+title: lyrics
 ---
 
 ## My favorite lyrics :D
