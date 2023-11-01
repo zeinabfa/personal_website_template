@@ -3,21 +3,16 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## Im just testing
+hello everyone!!:D
+
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+blah blah blah ...................
 
 
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/picture.jpg "Team Picture")
 
 ---
 **Test**: This is atest

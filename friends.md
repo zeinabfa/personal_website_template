@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [person 1]
+* person 2
+* person 2
 
 
 

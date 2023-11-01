@@ -1,8 +1,9 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: about me
+
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+Hi it's Zeinab
+i'm a computer engineering student in the IUST
+Welcome to my website!
