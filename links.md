@@ -9,8 +9,7 @@ comments: false
 ---
 
 
-* [Favorite Author]
-* [Places I want to visit]
-* [My home city]
-* [My university]
+* [My Favorite Author] (https://www.jkrowling.com)
+* [Places I want to live in] (https://en.mwikipedia.org/wiki/london)
+* [My university] (iust.ac.ir)
 

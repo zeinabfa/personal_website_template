@@ -9,6 +9,10 @@ comments: false
 ---
 
 
-* [painting]
-
+* painting
+* watching movies
+* tailoring
+* reed books
+* listening to music
+* coocking
 

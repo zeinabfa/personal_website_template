@@ -4,12 +4,12 @@ title: Test Post
 ---
 
 ## Im just testing
-hello everyone!!:D
+hello everyone!!
 
 
-[my favorite website](http://www.google.com)
+[my favorite website](http://www.spotify.com)
 
-blah blah blah ...................
+I hope you like my website :D
 
 
 ![alt text](../assets/images/picture.jpg "Team Picture")

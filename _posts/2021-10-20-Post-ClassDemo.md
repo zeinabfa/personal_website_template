@@ -1,18 +1,24 @@
 ---
 layout: posts
-title: lyrics
+title: things that i wnna learn more about them
 ---
 
-## My favorite lyrics :D
-tell me, do you, tell me do you still remember feelin' young?
+## subjects:
+- physics
+- space
+- history
+- math
+- music
+- programming
+- art
 
-[my favorite website](http://www.google.com)
+[my favorite website](http://www.spotify.com)
 
 
 
 
 
-![alt text](../assets/images/lyrics.jpg "Team Picture")
+![alt text](../assets/images/text.jpg "Text")
 
 ---
-**Test**: This is atest
+
