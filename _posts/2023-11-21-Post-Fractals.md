@@ -4,7 +4,7 @@ title: fractals
 
 ---
 
-<h1>Triangle Fractal In Python</h1>
+<h1 style="font-size: 25; ">Triangle Fractal In Python</h1>
 
 <br>
 <h3 style="font-size: 20; ">
