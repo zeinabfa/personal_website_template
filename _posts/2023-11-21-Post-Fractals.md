@@ -6,21 +6,21 @@ title: fractals
 
 <h1>Triangle Fractal In Python</h1>
 
-    <br>
-    <h3 style="font-size: 20; ">
-        STEP 1:
-        <br>
-        IMPORTING LIBRARY
-    </h3>
-    <pre style="font-size: 15; ">
+<br>
+<h3 style="font-size: 20; ">
+STEP 1:
+<br>
+IMPORTING LIBRARY
+</h3>
+<pre style="font-size: 15; ">
 import turtle
-        </pre style="font-size: 15; ">
-    <h3 style="font-size: 20; ">
-        STEP 2:
-        <br>
-        DEFINING TRIANGLE FUNCTION
-    </h3>
-    <pre style="font-size: 15; ">
+</pre>
+<h3 style="font-size: 20; ">
+STEP 2:
+<br>
+DEFINING TRIANGLE FUNCTION
+</h3>
+<pre style="font-size: 15; ">
 def triangle(s):
     turtle.pencolor("#a5cbe2")
     turtle.pensize(2)
@@ -31,12 +31,12 @@ def triangle(s):
     turtle.forward(s)
     turtle.left(120)
     
-</pre style="font-size: 15; ">
-    <h3 style="font-size: 20; ">
-        STEP 3:
-        <br>
-        DEFINING FRACTAL FUNCTION
-    </h3>
+</pre>
+<h3 style="font-size: 20; ">
+STEP 3:
+<br>
+DEFINING FRACTAL FUNCTION
+</h3>
 <pre style="font-size: 15; ">
 def fractal(n, s):
     if n == 0:
@@ -61,37 +61,37 @@ def fractal(n, s):
         turtle.right(120)
         turtle.forward(s/2)
         turtle.left(120)
-</pre style="font-size: 15; ">
-    <h3 style="font-size: 20; ">
-        FINAL STEP:
-        <br>
-        RUNNING THE CODE
-    </h3>
-    <pre style="font-size: 15; ">
+</pre>
+<h3 style="font-size: 20; ">
+FINAL STEP:
+<br>
+RUNNING THE CODE
+</h3>
+<pre style="font-size: 15; ">
 turtle.tracer(0)
 fractal(5, 400)
 turtle.update()
 turtle.mainloop()
 
-</pre style="font-size: 15; ">
-    <h3 style="font-size: 20; ">
-        FINAL RESULT
-    </h3>
+</pre>
+<h3 style="font-size: 20; ">
+FINAL RESULT
+</h3>
 <img src="../assets/images/triangle.png">
 
 <h1 style="font-size: 25; "> Tree Fractal </h1>
 <h3 style="font-size: 20; ">
-    STEP 1:
-    <br>
-    IMPORTING LIBRARY
+STEP 1:
+<br>
+IMPORTING LIBRARY
 </h3>
-    <pre style="font-size: 15; ">
+<pre style="font-size: 15; ">
 import turtle
-        </pre style="font-size: 15; ">
+</pre>
 <h3 style="font-size: 20; ">
-    STEP 2:
-    <br>
-    DEFINING LEAF FUNCTION
+STEP 2:
+<br>
+DEFINING LEAF FUNCTION
 </h3>
 <pre style="font-size: 15; ">
 def leaf():
@@ -110,11 +110,11 @@ def leaf():
     turtle.forward(9 * (3 ** 0.5))
     turtle.backward(9 * (3 ** 0.5))
     turtle.end_fill()
-</pre style="font-size: 15; ">
+</pre>
 <h3 style="font-size: 20; ">
-    STEP 3:
-    <br>
-    DEFINING TREE FUNCTION
+STEP 3:
+<br>
+DEFINING TREE FUNCTION
 </h3>
 <pre style="font-size: 15; ">
 def tree(d, r, w):
@@ -132,27 +132,29 @@ def tree(d, r, w):
     turtle.backward(d)
     turtle.pencolor("#ab6b37")
         
-</pre style="font-size: 15; ">
+</pre>
 <h3 style="font-size: 20; " style="text-align: left;font-family: tahoma">
-        FINAL STEP:
-        <br>
-        RUNNING THE CODE
-    </h3>
+FINAL STEP:
+<br>
+RUNNING THE CODE
+</h3>
 <pre style="font-size: 15; ">
 turtle.pencolor("#ab6b37")
 turtle.speed(0)
 turtle.left(90)
 tree(100, 30, 10)
 turtle.mainloop()
-</pre style="font-size: 15; ">
+</pre>
 <h3 style="font-size: 20; ">
-    FINAL RESULT
+FINAL RESULT
 </h3>
 <img src="../assets/images/tree.png">
 
 <h1 style="font-size: 25; "> Jungle </h1>
 <br>
-- for making a jungle in python first of all we need two functions: one for trees and another one for bushes.then we use random library to print our trees and bushes in random places.we can use variables to organizie them so we'll get a better result in the end
+- for making a jungle in python first of all we need two functions: one for trees and another one for
+- bushes.then we use random library to print our trees and bushes in random places.we can use variables 
+- to organizie them so we'll get a better result in the end
 <br>
 - here is an example of using variables:
 
@@ -164,5 +166,5 @@ for n in range(12):
     turtle.setpos(random.randint(x1, x2), random.randint(-170, -120))
     turtle.pendown()
     tree(110, 40, 20, 2)
-</pre style="font-size: 15; ">
+</pre>
 <img src="../assets/images/jungle2.png">
