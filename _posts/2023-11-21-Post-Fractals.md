@@ -152,9 +152,9 @@ FINAL RESULT
 
 <h1 style="font-size: 25; "> Jungle </h1>
 <br>
-- for making a jungle in python first of all we need two functions: one for trees and another one for
-<br> bushes.then we use random library to print our trees and bushes in random places.we can use
-<br>variables to organizie them so we'll get a better result in the end
+- for making a jungle in python first of all we need two functions: one for trees and another one for bushes.
+<br>then we use random library to print our trees and bushes in random places.
+<br>we can use variables to organizie them so we'll get a better result in the end
 <br>
 - here is an example of using variables:
 
