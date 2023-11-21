@@ -6,7 +6,6 @@ title: fractals
 
 <h1>Triangle Fractal In Python</h1>
 
-<body>
     <br>
     <h3 style="font-size: 20; ">
         STEP 1:
@@ -111,13 +110,13 @@ def leaf():
     turtle.forward(9 * (3 ** 0.5))
     turtle.backward(9 * (3 ** 0.5))
     turtle.end_fill()
-        </pre style="font-size: 15; ">
-    <h3 style="font-size: 20; ">
-        STEP 3:
-        <br>
-        DEFINING TREE FUNCTION
-    </h3>
-    <pre style="font-size: 15; ">
+</pre style="font-size: 15; ">
+<h3 style="font-size: 20; ">
+    STEP 3:
+    <br>
+    DEFINING TREE FUNCTION
+</h3>
+<pre style="font-size: 15; ">
 def tree(d, r, w):
     if d < 7 or r < 7:
         return
@@ -133,8 +132,8 @@ def tree(d, r, w):
     turtle.backward(d)
     turtle.pencolor("#ab6b37")
         
-        </pre style="font-size: 15; ">
-    <h3 style="font-size: 20; " style="text-align: left;font-family: tahoma">
+</pre style="font-size: 15; ">
+<h3 style="font-size: 20; " style="text-align: left;font-family: tahoma">
         FINAL STEP:
         <br>
         RUNNING THE CODE
@@ -152,9 +151,9 @@ turtle.mainloop()
 <img src="../assets/images/tree.png">
 
 <h1 style="font-size: 25; "> Jungle </h1>
-
+<br>
 - for making a jungle in python first of all we need two functions: one for trees and another one for bushes.then we use random library to print our trees and bushes in random places.we can use variables to organizie them so we'll get a better result in the end
-
+<br>
 - here is an example of using variables:
 
 <pre style="font-size: 15; ">
